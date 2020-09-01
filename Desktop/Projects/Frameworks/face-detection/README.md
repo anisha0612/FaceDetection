@@ -1,7 +1,6 @@
 # Face Detection
 
-This a react.js webpage that detects a face in a image.
-Paste the url of the image(image address) and press detect and the DeepAI API detects the face and the a box is displayed around a face.
+This a react.js webpage that detects a face in an image. Paste the URL of the image(image address) and press detect and the DeepAI API detects the face and a box is displayed around a face.
 
 This project was bootstrapped with [Create React App]
 
